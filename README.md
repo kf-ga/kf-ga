@@ -6,6 +6,6 @@
 
 - 🚸 My kids, as they are fun and not spoiled
 - 👣 Traveling around world and eating fancy local foods
-- 💾 Vintage computing and computer history
+- 💾 Vintage computer games and computer history
 - 🌍 All stuff moving the world today
 - ⚡ Fun fact: I do not use a smartphone
