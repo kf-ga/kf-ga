@@ -1,17 +1,11 @@
-## Hi there 👋
+## What am I up to these days
 
-<!--
-**kf-ga/kf-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Learning how to teach at [/gyarab](gyarab)
 
-Here are some ideas to get you started:
+## Interests 
 
-- 🔭 Currently learning how to teach at [@/gyarab](gyarab)
-
-Interests 
-
-- 🌱 Vintage computing and computer history
-- 👯 Traveling around world and eating fancy local foods
-- My kids, as they are fun and not spoiled
-
+- 🚸 My kids, as they are fun and not spoiled
+- 👣 Traveling around world and eating fancy local foods
+- 💾 Vintage computing and computer history
+- 🌍 All stuff moving the world today
 - ⚡ Fun fact: I do not use a smartphone
--->
