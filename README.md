@@ -1,6 +1,6 @@
 ## What am I up to these days
 
-- 🔭 Learning how to teach at [https://github.com/gyarab](Gymnázium Arabská)
+- 🔭 Learning how to teach at [@gyarab](Gymnázium Arabská)
 
 ## Interests 
 
